@@ -5,7 +5,7 @@
 
 .card {height:200px;
 		width:150px;
-		border: 1px;
+		border: 1px solid black;
 		border-style: solid;
 		background-color: yellow;
 		border-radius: 10px;
@@ -13,8 +13,10 @@
 		margin: 8%}
 
 
-h1 {color:rgb(2, 132, 130);}
-h2 {color:#ffd700;}
+h1 {color:rgb(2, 132, 130);
+	text-align: center;}
+h2 {color:#ffd700;
+	text-align: center;}
 
 .GA {color: #ff0000;
 	text-align: center;
